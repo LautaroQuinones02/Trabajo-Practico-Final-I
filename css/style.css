@@ -14,3 +14,312 @@ body{
     /* display: flex; */
     width: 100%;
 }
+
+nav{
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Satoshi;
+    font-weight: bold;
+    width: 100%; 
+    background-color: rgb(241, 238, 255);   
+}
+nav a{
+    text-decoration: none;
+    color: #0a0715;
+}
+/* nav i{
+    display: none;
+} */
+.miclase{
+    color: #0a0715;
+    font-size: 20px;
+    display: none;
+}
+.home{
+    padding: 70px 0 0 0;
+    width: 100%;
+    /* display: inline-flex;
+    justify-content: center;
+    justify-content: center; */
+}
+
+.button{
+    background: #ffc448;
+    border: 1px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-color: #ffc448;
+    text-decoration: none;
+    color: black;
+    font-family: Satoshi;
+    font-weight: bold;
+    transition: background-color 1s, border-color 1s;
+
+}
+.button:hover{
+    background-color: #ffe4ab;
+    border-color: #ffe4ab;
+}
+.home_title{
+    /* display: flex; */
+    justify-content: center;
+    text-align: center  ;
+    width: 100%;
+    font-size: xx-large;
+    /* margin: 50px; */
+    /* padding: 0; */
+}
+
+.disenio_title{
+    color: white;
+    border: solid;
+    border-color: #7755ff;
+    background-color: #7755ff;
+    border-radius: 50px;
+    padding: 8px 15px;
+}
+
+.home_buttons{
+    text-align: center;
+    /* text-decoration: none; */
+}
+.button1{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border: solid;
+    border-color: #ffc448;
+    background-color: #ffc448;
+    border-radius: 5px;
+    padding: 8px 17px;
+    transition: background-color 1s, border-color 1s;
+
+}
+
+.button1:hover{
+    background-color: #ffe4ab;
+    border-color: #ffe4ab;
+}
+
+.button2{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border: solid 0.5px;
+    border-color: black;
+    /* background-color: white; */
+    border-radius: 5px;
+    padding: 10px 28px;
+    transition: background-color 1s;
+}
+.button2:hover{
+    background-color: #c0b1ff;
+    /* border-color: #ffe4ab; */
+}
+.div1{
+    /* font-weight: bold; */
+    /* display: inline-flex; */
+    /* justify-content: center;
+    align-items: center; */
+    /* position: relative;
+    top: 20px;
+    left: 620px; */
+    /* border-radius: 50px;
+    background-color: #ffedc6; */
+    /* border:solid 1px; */
+    text-align: center;
+    padding: 10px
+    /* width: auto; */
+    /* margin: 100px 650px; */
+}
+.follow_me{
+    display: inline-flex;
+    border-radius: 50px;
+    background-color: #ffedc6;
+    border:solid 1px #ffedc6;
+    padding: 7px 16px  ;
+}
+img{
+    
+    margin: 50px 0 0 0;
+    border-radius: 7%;
+}
+.lkd{
+    padding: 10px 10px;
+    background-color: white;
+    border-radius: 46%;
+    width: 30px;
+    height: 30px;
+}
+.tw{
+    padding: 10px 10px;
+    background-color: white;
+    border-radius: 46%;
+    width: 30px;
+    height: 30px;
+}
+.wsp{
+    padding: 10px 10px;
+    background-color: white;
+    border-radius: 46%;
+    width: 30px;
+    height: 30px;
+}
+.hero{
+    width: 100%;
+    height: 600px;
+    padding: 100px 0 0 0;
+    margin: 0;
+    color: white;
+    display: flex;
+    justify-content: block;
+    clear: both;
+    background-color: #0a0715;
+    /* min-width: 380vh; */
+    /* min-height: 1050vh; */
+}
+.heroimg{
+    margin: 50px 50px 50px 200px;
+    border-radius: 7%;
+    
+}
+.herodiv{
+    width: 100%;
+    margin: 50px 50px;
+    text-align: left;
+    background-color: #0a0715;
+    
+}
+
+.cv{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border: solid;
+    border-color: #ffc448;
+    background-color: #ffc448;
+    border-radius: 5px;
+    padding: 8px 17px;
+    /* margin: 10px 0 0 0; */
+    transition: background-color 1s, border-color 1s;
+    
+
+}
+
+.cv:hover{
+    background-color: #ffe4ab;
+    border-color: #ffe4ab;
+}
+
+.habilidades{
+    display: grid;
+    text-align: center;
+}
+.section-title{
+    padding: 70px 10px 0 10px;
+}
+.habilidades p{
+    text-align: center;
+    padding: 10px 200px;
+    color: gray;
+}
+.principal_div_skills{
+    width: 800px;
+    height: 350px;
+    background-color: #e7e7e9;
+    display: inline-flex;
+    justify-content:left;
+    border-radius: 20px;
+    margin: 20px 0 50px 280px ;
+}
+.experiencias, .skills {
+    width: 45%;
+    
+}
+
+.experiencias h2, .skills h2{
+    text-align: left;
+    margin: 30px;
+}
+.experience-item p{
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+.experiencias div{
+    padding: 15px;
+}
+.rol{
+    font-weight: bold;
+}
+hr{
+    width: 92%;
+}
+
+.skills img{
+    display: grid;
+    margin: 50px 0 0 40px;
+}
+.skills p{
+    /* text-align: left; */
+    padding: 0;
+    margin: -20px 0;
+}
+
+.portfolio{
+    text-align: center;
+    background-color: #0a0715;
+    color: white;
+    width: 100%;
+    /* min-width: 380vh; */
+}
+.portfolio h1{
+    padding: 80px 0 0 0;
+}
+.portfolio p{
+    padding: 10px 400px;}
+.img_portfolio{
+    padding: 0 0 150px 0;
+}
+footer{
+    text-align: center;
+    height: 500px;
+    
+
+
+}
+.divcontact{
+
+    width: 700px;
+    height: 120px;
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+    margin: 150px 0 50px 0 ;
+}
+.email{
+    color: #7755ff;
+    font-weight: bold;
+    
+}
+.divlinks{
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+    /* margin: 150px; */
+}
+.divlinks a{
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #0a0715;
+}
