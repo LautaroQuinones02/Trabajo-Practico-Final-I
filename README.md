@@ -15,3 +15,5 @@ Con respecto al desarrollo de la pagina, trate de ser lo mas fiel al original po
 En una de las section, en la de portfolio en especifico, tuve que realizar cambios, como por ejemplo en el background, para seguir con una estetica armoniosa. Tambien a la misma le agregue imagenes ilustrativas, que en un futuro cambiare con proyectos propios. Por el momento estas te dirigen a mi perfil de GitHub.
 
 En conclusión, el proyecto del portfolio web ha sido una experiencia muy positiva que ha asentado mis habilidades en diseño y desarrollo web. Se que queda mucho por aprender y corregir.
+
+Podes ver mi proyecto <a href="https://lautaroquinones02.github.io/Trabajo-Practico-Final-I/">AQUI</a>
