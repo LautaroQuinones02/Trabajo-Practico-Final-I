@@ -30,6 +30,9 @@ nav a{
     text-decoration: none;
     color: #0a0715;
 }
+.logonav{
+    margin: -10px;
+}
 /* nav i{
     display: none;
 } */
