@@ -284,6 +284,10 @@ hr{
 .img_portfolio{
     padding: 0 0 150px 0;
 }
+.img_portfolio img{
+    border-radius: 7px;
+    margin: 15px;
+}
 footer{
     text-align: center;
     height: 500px;
