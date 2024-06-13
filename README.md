@@ -17,3 +17,4 @@ En una de las section, en la de portfolio en especifico, tuve que realizar cambi
 En conclusión, el proyecto del portfolio web ha sido una experiencia muy positiva que ha asentado mis habilidades en diseño y desarrollo web. Se que queda mucho por aprender y corregir.
 
 Podes ver mi proyecto <a href="https://lautaroquinones02.github.io/Trabajo-Practico-Final-I/">AQUI</a>
+Mi inspiración está<a href=">https://www.behance.net/gallery/194544091/Personal-Portfolio-Website-Design-Figma-Web-Design?tracking_source=search_projects|portfolio+web&l=40">AQUI</a>
