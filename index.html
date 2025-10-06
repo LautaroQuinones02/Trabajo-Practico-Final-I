@@ -158,11 +158,21 @@
     <script>
         const menuIcon = document.querySelector('.miclase');
         const navLinks = document.querySelector('.nav-links');
+        const navItems = document.querySelectorAll('.nav-links a'); // todos los links del menú
 
+        // Toggle del menú al hacer clic en el icono
         menuIcon.addEventListener('click', () => {
             navLinks.classList.toggle('active');
         });
+
+        // Cerrar el menú al hacer clic en un link
+        navItems.forEach(item => {
+            item.addEventListener('click', () => {
+                navLinks.classList.remove('active');
+            });
+        });
     </script>
+
 
 </body>
 
