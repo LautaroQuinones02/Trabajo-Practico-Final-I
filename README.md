@@ -1,20 +1,45 @@
+🌟 Portafolio Web – Proyecto Personal
+
 ¡Bienvenido a mi proyecto de recreación de un portafolio web!
-Este proyecto tiene como objetivo mostrar mis habilidades en HTML y CSS 
-mediante la creación de un sitio web personal que resalta mis trabajos y experiencias.
 
-Este desafio me ayudo a reforzar los conocimientos que habia adquirido sobre los temas 
-durante mi educacion secundaria, los cuales nunca habia podido desarrollar ni en la 
-facultad, ni en mi vida laboral.
+Este proyecto tiene como objetivo mostrar mis habilidades en HTML, CSS y desarrollo web mediante la creación de un sitio personal que resalta mis trabajos y experiencias.
 
-Mi gran desafio fue la utilizacion de las herramientas Git y GitHub, las cuales 
-no conocia y fue algo nuevo para mi. Creo que esa fue la parte en que mas me costo adaptarme y 
-donde se deben encontrar la mayor cantidad de errores e inconsistencias. Lo bueno es que para 
-mis proximos proyectos ya tengo una mayor experiencia y conocimiento de como usarlos de forma adecuada.
+🎯 Objetivo del proyecto
 
-Con respecto al desarrollo de la pagina, trate de ser lo mas fiel al original posible, reemplazando con mis datos personales donde correspondia.
-En una de las section, en la de portfolio en especifico, tuve que realizar cambios, como por ejemplo en el background, para seguir con una estetica armoniosa. Tambien a la misma le agregue imagenes ilustrativas, que en un futuro cambiare con proyectos propios. Por el momento estas te dirigen a mi perfil de GitHub.
+Desarrollar un sitio web personal que sirva como portafolio profesional.
 
-En conclusión, el proyecto del portfolio web ha sido una experiencia muy positiva que ha asentado mis habilidades en diseño y desarrollo web. Se que queda mucho por aprender y corregir.
+Aplicar los conocimientos adquiridos en educación secundaria en HTML, CSS y diseño web.
 
-Podes ver mi proyecto <a href="https://lautaroquinones02.github.io/Trabajo-Practico-Final-I/">AQUI</a>
-Mi inspiración está <a href="https://www.behance.net/gallery/194544091/Personal-Portfolio-Website-Design-Figma-Web-Design?tracking_source=search_projects|portfolio+web&l=40">AQUI</a>
+Crear un proyecto práctico que sirva como referencia para futuros desarrollos.
+
+💻 Desarrollo y características
+
+La página fue diseñada para ser lo más fiel posible al diseño original, reemplazando con mis datos personales donde correspondía.
+
+En la sección Portfolio, realicé cambios en el background y estética para mantener un diseño armonioso.
+
+Se agregaron imágenes ilustrativas que actualmente redirigen a mi perfil de GitHub, pero que en el futuro se reemplazarán con proyectos propios.
+
+La estructura del proyecto sigue buenas prácticas de organización de archivos y componentes, lo que facilita su mantenimiento y escalabilidad.
+
+🚀 Tecnologías utilizadas
+
+HTML5
+
+CSS3
+
+JavaScript (para interacciones básicas y animaciones)
+
+Git & GitHub (control de versiones y despliegue)
+
+🔗 Enlaces importantes
+
+🌐 Ver el proyecto en vivo: <a href='https://lautaroquinones02.github.io/Trabajo-Practico-Final-I/' >Click aquí</a>
+
+💡 Inspiración del diseño: <a href='https://www.behance.net/gallery/194544091/Personal-Portfolio-Website-Design-Figma-Web-Design?tracking_source=search_projects%7Cportfolio+web&l=40' >Click aquí</a>
+
+📌 Conclusión
+
+El desarrollo de este portafolio web ha sido una experiencia muy positiva, reforzando mis habilidades en diseño y desarrollo web, y preparando el camino para futuros proyectos más complejos.
+
+Sé que aún hay mucho por aprender y mejorar, pero este proyecto es un punto de partida sólido para mi crecimiento como desarrollador web.
