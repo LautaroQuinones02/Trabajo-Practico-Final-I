@@ -34,7 +34,7 @@ Git & GitHub (control de versiones y despliegue)
 
 🔗 Enlaces importantes
 
-🌐 Ver el proyecto en vivo: <a href='https://lautaroquinones02.github.io/Trabajo-Practico-Final-I/' >Click aquí</a>
+🌐 Ver el proyecto en vivo: <a href='https://leq-theta.vercel.app/' >Click aquí</a>
 
 💡 Inspiración del diseño: <a href='https://www.behance.net/gallery/194544091/Personal-Portfolio-Website-Design-Figma-Web-Design?tracking_source=search_projects%7Cportfolio+web&l=40' >Click aquí</a>
 
